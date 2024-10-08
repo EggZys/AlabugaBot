@@ -1,0 +1,568 @@
+{
+    "861549720245370880": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-06-13 16:04:21.686784+00:00",
+        "last_message_at": "2024-06-13 19:04:23.061738",
+        "warnings": 0,
+        "messages": 1,
+        "characters": 0,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "958396219238023218": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-06-13 16:04:41.606547+00:00",
+        "last_message_at": "2024-06-15 16:45:26.308759",
+        "warnings": 0,
+        "messages": 3,
+        "characters": 16,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "684704477629906974": {
+        "role": [
+            "@everyone",
+            "+",
+            "hydra"
+        ],
+        "joined_at": "2024-06-13 15:35:51.186000+00:00",
+        "last_message_at": "2024-08-04 14:33:35.418223",
+        "warnings": 0,
+        "messages": 353,
+        "characters": 8714,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 18,
+        "swear_messages": 29,
+        "level": 3
+    },
+    "860876178284740638": {
+        "role": [
+            "@everyone",
+            "owner"
+        ],
+        "joined_at": "2024-06-14 09:15:14.285000+00:00",
+        "last_message_at": "2024-06-15 14:34:57.904760",
+        "warnings": 0,
+        "messages": 18,
+        "characters": 183,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 1,
+        "level": 0
+    },
+    "310848622642069504": {
+        "role": [
+            "@everyone",
+            "JuniperBot"
+        ],
+        "joined_at": "2024-06-15 09:16:37.464495+00:00",
+        "last_message_at": "2024-06-15 12:18:46.880998",
+        "warnings": 0,
+        "messages": 3,
+        "characters": 0,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "719952288466337923": {
+        "role": [
+            "@everyone",
+            "Dracula"
+        ],
+        "joined_at": "2024-06-13 15:35:20.559000+00:00",
+        "last_message_at": "2024-06-15 14:41:35.018980",
+        "warnings": 0,
+        "messages": 3,
+        "characters": 10,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "992069453812604938": {
+        "role": [
+            "@everyone",
+            "Tex.admin"
+        ],
+        "joined_at": "2024-06-13 12:17:36.598000+00:00",
+        "last_message_at": "2024-06-15 14:50:58.796528",
+        "warnings": 0,
+        "messages": 9,
+        "characters": 445,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "836661775159394304": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-01 17:33:02.347446+00:00",
+        "last_message_at": "2024-08-01 23:11:28.579281",
+        "warnings": 0,
+        "messages": 6,
+        "characters": 204,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "951861630227058718": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 13:51:18.766973+00:00",
+        "last_message_at": "2024-08-02 16:51:17.794870",
+        "warnings": 0,
+        "messages": 1,
+        "characters": 0,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "638335048357249046": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 13:51:32.412095+00:00",
+        "last_message_at": "2024-08-02 16:59:45.210004",
+        "warnings": 0,
+        "messages": 15,
+        "characters": 105,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "718538039902732440": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 13:51:42.853856+00:00",
+        "last_message_at": "2024-08-02 16:51:41.877421",
+        "warnings": 0,
+        "messages": 1,
+        "characters": 0,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "763675156534132757": {
+        "role": [
+            "@everyone",
+            "\u041d\u0435 \u0432\u0435\u0440\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d"
+        ],
+        "joined_at": "2024-08-02 13:51:54.069000+00:00",
+        "last_message_at": "2024-08-02 16:51:53.136704",
+        "warnings": 0,
+        "messages": 1,
+        "characters": 0,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "1251119154199658550": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 13:51:55.261047+00:00",
+        "last_message_at": "2024-08-02 16:53:51.311419",
+        "warnings": 0,
+        "messages": 3,
+        "characters": 26,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "765184664271847446": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 13:51:59.408778+00:00",
+        "last_message_at": "2024-08-02 17:04:46.056501",
+        "warnings": 0,
+        "messages": 4,
+        "characters": 18,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 1,
+        "level": 0
+    },
+    "975651502410584098": {
+        "role": [
+            "@everyone",
+            "\u0412\u0435\u0440\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d",
+            "gpt",
+            "Admin"
+        ],
+        "joined_at": "2024-08-02 09:53:49.560000+00:00",
+        "last_message_at": "2024-08-04 17:07:32.934140",
+        "warnings": 0,
+        "messages": 119,
+        "characters": 2194,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 2,
+        "level": 1
+    },
+    "543329404181544981": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 13:54:14.246295+00:00",
+        "last_message_at": "2024-08-02 16:54:40.238625",
+        "warnings": 0,
+        "messages": 2,
+        "characters": 15,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "1228078950581014672": {
+        "role": [
+            "@everyone",
+            "\u041d\u0435 \u0432\u0435\u0440\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d"
+        ],
+        "joined_at": "2024-08-02 13:54:47.714000+00:00",
+        "last_message_at": "2024-08-02 16:54:47.497702",
+        "warnings": 0,
+        "messages": 1,
+        "characters": 0,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "989980640948678716": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 13:57:54.622694+00:00",
+        "last_message_at": "2024-08-02 17:54:30.618325",
+        "warnings": 0,
+        "messages": 2,
+        "characters": 3,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "956474041919746059": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 14:02:55.273946+00:00",
+        "last_message_at": "2024-08-02 17:13:33.481637",
+        "warnings": 0,
+        "messages": 2,
+        "characters": 5,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "927909711527968800": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 14:25:41.908221+00:00",
+        "last_message_at": "2024-08-02 17:27:24.452391",
+        "warnings": 0,
+        "messages": 3,
+        "characters": 47,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "1101535006297432106": {
+        "role": [
+            "@everyone",
+            "\u041d\u0435 \u0432\u0435\u0440\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d"
+        ],
+        "joined_at": "2024-08-02 14:42:43.447000+00:00",
+        "last_message_at": "2024-08-02 17:42:43.320249",
+        "warnings": 0,
+        "messages": 1,
+        "characters": 0,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "1035874025492185168": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 14:48:53.538707+00:00",
+        "last_message_at": "2024-08-02 17:48:52.499752",
+        "warnings": 0,
+        "messages": 1,
+        "characters": 0,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "601315040217399316": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 14:55:35.912199+00:00",
+        "last_message_at": "2024-08-02 17:56:56.620027",
+        "warnings": 0,
+        "messages": 2,
+        "characters": 22,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "885150430320013322": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 14:59:11.027784+00:00",
+        "last_message_at": "2024-08-03 15:02:03.141632",
+        "warnings": 0,
+        "messages": 6,
+        "characters": 127,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "815152664576262174": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 15:03:27.738380+00:00",
+        "last_message_at": "2024-08-03 18:04:13.179946",
+        "warnings": 0,
+        "messages": 3,
+        "characters": 21,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 1,
+        "level": 0
+    },
+    "698260415204950228": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 16:37:17.643773+00:00",
+        "last_message_at": "2024-08-02 19:37:16.550028",
+        "warnings": 0,
+        "messages": 1,
+        "characters": 0,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "945168041757511730": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 16:41:07.215737+00:00",
+        "last_message_at": "2024-08-02 19:47:26.277907",
+        "warnings": 0,
+        "messages": 3,
+        "characters": 23,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "776127867285012491": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-02 17:36:49.789988+00:00",
+        "last_message_at": "2024-08-02 20:36:48.704661",
+        "warnings": 0,
+        "messages": 1,
+        "characters": 0,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "1035499487558389821": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-03 08:49:03.161814+00:00",
+        "last_message_at": "2024-08-03 11:49:01.691872",
+        "warnings": 0,
+        "messages": 1,
+        "characters": 0,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "934935400638722098": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-03 08:51:28.757538+00:00",
+        "last_message_at": "2024-08-04 13:40:57.460080",
+        "warnings": 0,
+        "messages": 3,
+        "characters": 42,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "527039163510292480": {
+        "role": [
+            "@everyone",
+            "\u041d\u0435 \u0432\u0435\u0440\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d"
+        ],
+        "joined_at": "2024-08-03 08:57:30.917000+00:00",
+        "last_message_at": "2024-08-04 12:05:26.073208",
+        "warnings": 0,
+        "messages": 57,
+        "characters": 1389,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 6,
+        "level": 0
+    },
+    "703395721960882190": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-03 09:03:24.467506+00:00",
+        "last_message_at": "2024-08-04 12:35:36.621211",
+        "warnings": 0,
+        "messages": 23,
+        "characters": 574,
+        "forwarded": 0,
+        "photos": 0,
+        "commands": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "688030583225450519": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-03 10:52:08.816786+00:00",
+        "last_message_at": "2024-08-03 13:52:40.331078",
+        "messages": 2,
+        "characters": 22,
+        "forwarded": 0,
+        "emojis": 0,
+        "swear_messages": 0,
+        "level": 0
+    },
+    "710056681362554970": {
+        "role": [
+            "@everyone"
+        ],
+        "joined_at": "2024-08-03 11:53:47.728856+00:00",
+        "last_message_at": "2024-08-03 15:51:41.787627",
+        "messages": 13,
+        "characters": 211,
+        "forwarded": 0,
+        "emojis": 0,
+        "swear_messages": 1,
+        "level": 0
+    },
+    "1199623084194414647": {
+        "role": [
+            "@everyone",
+            "\u0412\u0435\u0440\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d",
+            "\u0423\u0447\u0430\u0441\u0442\u043d\u0438\u043a"
+        ],
+        "joined_at": "2024-08-03 11:57:27.057000+00:00",
+        "last_message_at": "2024-08-04 14:55:25.518280",
+        "messages": 15,
+        "characters": 1260,
+        "forwarded": 0,
+        "emojis": 0,
+        "swear_messages": 3,
+        "level": 0
+    }
+}

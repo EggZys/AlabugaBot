@@ -1,0 +1,27 @@
+{
+    "server": {
+        "title": "**Команды сервера**",
+        "description": "Список доступных команд:",
+        "color": discord.Color.blue(),
+        "commands": [
+            {"type": "command", "name": "`.search_github`", "description": "Найти Статью на ГитХабе по запросу", "args": "<Запрос>"},
+            {"type": "command", "name": "`.off`", "description": "Выключить бота(ТОЛЬКО ДЛЯ АДМИНИСТРАЦИИ)"},
+            {"type": "command", "name": "`.restart`", "description": "Перезагрузить бота(ТОЛЬКО ДЛЯ АДМИНИСТРАЦИИ)"},
+            {"type": "command", "name": "`.stat`", "description": "Посмотреть статистику пользователя", "args": "<Пользователь>(необязательно)"},
+            {"type": "command", "name": "`.top`", "description": "Топ пользователей"},
+            {"type": "command", "name": "`.reset_data`", "description": "Очисить статистику пользователя", "args": "<Пользователь>"}
+        ]
+    },
+    "ai": {
+        "title": "**ИИ**",
+        "description": "Список команд ИИ",
+        "color": discord.Color.green(),
+        "commands": [
+            {"type": "command", "name": "`.? <Запрос>`", "description": "Отправить запрос ИИ(Улучшенная версия)"},
+            {"type": "command", "name": "`.ai <Запрос>`", "description": "Пробная версия ИИ(Намного хуче чем улучшенная версия)"},
+            {"type": "command", "name": "`.img <Промпт>`", "description": "Сгенерировать изображение(Промпт вводить на английском языке)"},
+            {"type": "command", "name": "`.add_key <Ключ AI/ML API>`", "description": "Получить доступ к Улучшенной версии ИИ(В ЛС с ботом)", "args": "<Ключ AI/ML Api>"},
+            {"type": "text", "text": "`\nНе используйте много запросов к улучшенной верси ИИ, на одного человека рассчитано +- 5 запросов в день(если длинных), коротких больше.`"}
+        ]
+    }
+}
