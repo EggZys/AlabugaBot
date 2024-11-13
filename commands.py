@@ -15,7 +15,7 @@ import data
 
 plugins = data.load_plugins()
 user_pairs = data.load_pairs()
-huggingface_hub.login(token='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')
+huggingface_hub.login(token='')
 
 previous_requests = {}
 
